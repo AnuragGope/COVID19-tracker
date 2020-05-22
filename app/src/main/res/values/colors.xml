@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FCFCFD</color>
+    <color name="red">#FF5722</color>
+    <color name="green">#8BC34A</color>
+
+    <color name="skin">#F1584D</color>
+    <color name="blue">#3F51B5</color>
+    <color name="yellow">#F7C83F</color>
+
+    <color name="gray">#E7E7D7</color>
+    <color name="dgray">#C7C7BA</color>
+    <color name="jeans">#0B24B1</color>
+
+</resources>
